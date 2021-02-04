@@ -93,8 +93,8 @@ namespace TestForm
             }
             var sortedDict = (from unionD in unionDict
                              orderby unionD.Value[2] descending,
-                                     unionD.Value[1] descending,
                                      unionD.Value[0] descending,
+                                     unionD.Value[1] descending,
                                      unionD.Key descending
                              select unionD).ToDictionary(unionD => unionD.Key, unionD => unionD.Value);
 
