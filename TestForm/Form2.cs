@@ -42,9 +42,9 @@ namespace TestForm
                 int countAll=0, countAsks=0, countRKK=0;
                 for (int i = 1; i < dataGridView.RowCount; i++)
                 {
-                    countRKK = countRKK+ Convert.ToInt32(dataGridView.Rows[i - 1].Cells[2].Value);
-                    countAsks = countAsks + Convert.ToInt32(dataGridView.Rows[i - 1].Cells[3].Value);
-                    countAll = countAll + Convert.ToInt32(dataGridView.Rows[i - 1].Cells[4].Value);
+                    countRKK +=  Convert.ToInt32(dataGridView.Rows[i - 1].Cells[2].Value);
+                    countAsks += Convert.ToInt32(dataGridView.Rows[i - 1].Cells[3].Value);
+                    countAll += Convert.ToInt32(dataGridView.Rows[i - 1].Cells[4].Value);
                 }
                 range.Text = "Справка о неисполненных документах и обращениях граждан \n";
                 range.ParagraphFormat.Alignment= Microsoft.Office.Interop.Word.WdParagraphAlignment.wdAlignParagraphCenter;
