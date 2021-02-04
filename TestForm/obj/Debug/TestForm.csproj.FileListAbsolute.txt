@@ -1,0 +1,21 @@
+c:\users\aspire\documents\visual studio 2015\Projects\TestForm\TestForm\bin\Debug\TestForm.exe.config
+c:\users\aspire\documents\visual studio 2015\Projects\TestForm\TestForm\bin\Debug\TestForm.exe
+c:\users\aspire\documents\visual studio 2015\Projects\TestForm\TestForm\bin\Debug\TestForm.pdb
+c:\users\aspire\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Debug\TestForm.csprojResolveAssemblyReference.cache
+c:\users\aspire\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Debug\TestForm.Form1.resources
+c:\users\aspire\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+c:\users\aspire\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Debug\TestForm.csproj.GenerateResource.Cache
+c:\users\aspire\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Debug\TestForm.exe
+c:\users\aspire\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Debug\TestForm.pdb
+c:\users\aspire\documents\visual studio 2015\Projects\TestForm\TestForm\obj\Debug\TestForm.Form2.resources
+C:\Users\madyarov.rr\Desktop\TestForm\TestForm\bin\Debug\TestForm.exe.config
+C:\Users\madyarov.rr\Desktop\TestForm\TestForm\bin\Debug\TestForm.exe
+C:\Users\madyarov.rr\Desktop\TestForm\TestForm\bin\Debug\TestForm.pdb
+C:\Users\madyarov.rr\Desktop\TestForm\TestForm\obj\Debug\TestForm.csprojAssemblyReference.cache
+C:\Users\madyarov.rr\Desktop\TestForm\TestForm\obj\Debug\TestForm.Form1.resources
+C:\Users\madyarov.rr\Desktop\TestForm\TestForm\obj\Debug\TestForm.Form2.resources
+C:\Users\madyarov.rr\Desktop\TestForm\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+C:\Users\madyarov.rr\Desktop\TestForm\TestForm\obj\Debug\TestForm.csproj.GenerateResource.cache
+C:\Users\madyarov.rr\Desktop\TestForm\TestForm\obj\Debug\TestForm.csproj.CoreCompileInputs.cache
+C:\Users\madyarov.rr\Desktop\TestForm\TestForm\obj\Debug\TestForm.exe
+C:\Users\madyarov.rr\Desktop\TestForm\TestForm\obj\Debug\TestForm.pdb
